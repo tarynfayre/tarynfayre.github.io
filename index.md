@@ -4,17 +4,16 @@
 
 Here's a website for a fella that takes rad pictures of cats.
 
-### kitties kitties kitties
+### But more importantly, this is what I learned in class.
+1. Add
+2. Commit
+3. Push
+ This set of actions allows you to add a file from a local version control system to a centralized one, where many people can edit or add to it. Changes to files are tracked by Git, etc. etc. etc. My brain is exploding.
 
-They purr and make biscuits and do not eat your socks like dogs do.
 
 ```markdown
-Cat Breeds
 
-- Persian
-- Siamese
-- Devon Rex
-- Domestic Shorthair
+
 
 
 
