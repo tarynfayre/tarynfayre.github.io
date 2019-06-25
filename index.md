@@ -9,17 +9,14 @@ Here's a website for a fella that takes rad pictures of cats.
 They purr and make biscuits and do not eat your socks like dogs do.
 
 ```markdown
-Syntax highlighted code block
-
- ### Cat Breeds
+Cat Breeds
 
 - Persian
 - Siamese
 - Devon Rex
 - Domestic Shorthair
 
-1. Numbered
-2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
