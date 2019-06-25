@@ -2,23 +2,21 @@
 
 [The Cat Photographer](http://www.iamthecatphotographer.com/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here's a website for a fella that takes rad pictures of cats.
 
-### Markdown
+### kitties kitties kitties
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+They purr and make biscuits and do not eat your socks like dogs do.
 
 ```markdown
 Syntax highlighted code block
 
 # Cats
-## More cats
-### I really _love_ cats
 
-- Chickadees
-- Bluebirds
-- Crows
-- Woodpeckers
+- Persian
+- Siamese
+- Devon Rex
+- Domestic Shorthair
 
 1. Numbered
 2. List
